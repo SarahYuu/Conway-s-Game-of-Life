@@ -1,4 +1,4 @@
-The Game of Life is an infinite, two- dimensional grid of square cells, each of which is in one of two possible states: live or dead (or populated and unpopulated, respectively). Every cell interacts with its eight neighbours and transitions as time progresses. 
+The Game of Life is an infinite, two-dimensional grid of square cells, each of which is in one of two possible states: live or dead (or populated and unpopulated, respectively). Every cell interacts with its eight neighbours and transitions as time progresses. 
 
 How to start the game:   
 ```gradle build```   
